@@ -1,0 +1,23 @@
+﻿  pch.cpp
+  AIAction.cpp
+  AIActionSubReasoner.cpp
+  AIActionBase.cpp
+  AIActorBase.cpp
+  AIBrainBase.cpp
+  AIBrainBlackboardBase.cpp
+  AIConsiderationBase.cpp
+  AIConstructorBase.cpp
+  AIOptionBase.cpp
+  AIReasonerBase.cpp
+  AI_Framework.cpp
+  AIBrainBlackboard.cpp
+  AIConsideration.cpp
+  AIBlackboard_Global.cpp
+  AILogger_Global.cpp
+  AIMath_Global.cpp
+  AIRandom_Global.cpp
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\AI_Framework\Global\AIRandom_Global.cpp(42,34): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\AI_Framework\Global\AIRandom_Global.cpp(49,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  AIOption.cpp
+  Generating Code...
+  AI_Framework.vcxproj -> C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\x64\Debug\AI_Framework.lib

@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AI_Framework/AI_Framework.vcxproj" Id="7a917803-d4ad-4456-8623-ed2c1651b0ba" />
+  <Project Path="RacingComp/RacingComp.vcxproj" Id="97636d1e-fb71-4082-9f61-0ec97d620eaa" />
+</Solution>

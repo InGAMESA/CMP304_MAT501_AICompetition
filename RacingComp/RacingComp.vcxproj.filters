@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Constructors">
+      <UniqueIdentifier>{d67f8753-0f87-4f3f-bdbb-3dd63d0423d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Reasoners">
+      <UniqueIdentifier>{4bb68a62-24dd-477f-a570-43054710fd08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Reasoners">
+      <UniqueIdentifier>{b0d0d4a2-5848-42ac-b0b1-20fe61484d16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Constructors">
+      <UniqueIdentifier>{fd454629-cb3b-4e7a-92a6-fa0c493fbcc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BT_Nodes">
+      <UniqueIdentifier>{f6959323-26ed-4cb7-8b59-1ac59a61acb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BT_Nodes">
+      <UniqueIdentifier>{e601f6c3-3913-41f2-b861-e3446d167a17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MCTS_Nodes">
+      <UniqueIdentifier>{c2973aed-8776-42b1-b7f2-1f81f458d4ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MCTS_Nodes">
+      <UniqueIdentifier>{ded1c7c7-0bee-4e62-a435-448972ab3759}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="RacingComp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AIActor_Driver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AIBrain_Driver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AIConstructor_DT.cpp">
+      <Filter>Source Files\Constructors</Filter>
+    </ClCompile>
+    <ClCompile Include="AIConstructor_FSM.cpp">
+      <Filter>Source Files\Constructors</Filter>
+    </ClCompile>
+    <ClCompile Include="AIConstructor_RBS.cpp">
+      <Filter>Source Files\Constructors</Filter>
+    </ClCompile>
+    <ClCompile Include="RBS_Reasoner.cpp">
+      <Filter>Source Files\Reasoners</Filter>
+    </ClCompile>
+    <ClCompile Include="FSM_Reasoner.cpp">
+      <Filter>Source Files\Reasoners</Filter>
+    </ClCompile>
+    <ClCompile Include="DT_Reasoner.cpp">
+      <Filter>Source Files\Reasoners</Filter>
+    </ClCompile>
+    <ClCompile Include="BT_ReasonerNode.cpp">
+      <Filter>Source Files\Reasoners</Filter>
+    </ClCompile>
+    <ClCompile Include="AIConstructor_BT.cpp">
+      <Filter>Source Files\Constructors</Filter>
+    </ClCompile>
+    <ClCompile Include="BT_ConcurrentNode.cpp">
+      <Filter>Source Files\BT_Nodes</Filter>
+    </ClCompile>
+    <ClCompile Include="BT_DecoratorNode.cpp">
+      <Filter>Source Files\BT_Nodes</Filter>
+    </ClCompile>
+    <ClCompile Include="BT_FallbackNode.cpp">
+      <Filter>Source Files\BT_Nodes</Filter>
+    </ClCompile>
+    <ClCompile Include="BT_RandomNode.cpp">
+      <Filter>Source Files\BT_Nodes</Filter>
+    </ClCompile>
+    <ClCompile Include="BT_SequenceNode.cpp">
+      <Filter>Source Files\BT_Nodes</Filter>
+    </ClCompile>
+    <ClCompile Include="AIConstructor_MCTS.cpp">
+      <Filter>Source Files\Constructors</Filter>
+    </ClCompile>
+    <ClCompile Include="MCTS_Reasoner.cpp">
+      <Filter>Source Files\Reasoners</Filter>
+    </ClCompile>
+    <ClCompile Include="MCTSNode.cpp">
+      <Filter>Source Files\MCTS_Nodes</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AIActor_Driver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AIBrain_Driver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RBS_Reasoner.h">
+      <Filter>Header Files\Reasoners</Filter>
+    </ClInclude>
+    <ClInclude Include="FSM_Reasoner.h">
+      <Filter>Header Files\Reasoners</Filter>
+    </ClInclude>
+    <ClInclude Include="DT_Reasoner.h">
+      <Filter>Header Files\Reasoners</Filter>
+    </ClInclude>
+    <ClInclude Include="AIConstructor_RBS.h">
+      <Filter>Header Files\Constructors</Filter>
+    </ClInclude>
+    <ClInclude Include="AIConstructor_DT.h">
+      <Filter>Header Files\Constructors</Filter>
+    </ClInclude>
+    <ClInclude Include="AIConstructor_FSM.h">
+      <Filter>Header Files\Constructors</Filter>
+    </ClInclude>
+    <ClInclude Include="BT_ReasonerNode.h">
+      <Filter>Header Files\Reasoners</Filter>
+    </ClInclude>
+    <ClInclude Include="AIConstructor_BT.h">
+      <Filter>Header Files\Constructors</Filter>
+    </ClInclude>
+    <ClInclude Include="BT_ConcurrentNode.h">
+      <Filter>Header Files\BT_Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="BT_DecoratorNode.h">
+      <Filter>Header Files\BT_Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="BT_FallbackNode.h">
+      <Filter>Header Files\BT_Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="BT_RandomNode.h">
+      <Filter>Header Files\BT_Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="BT_SequenceNode.h">
+      <Filter>Header Files\BT_Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="AIConstructor_MCTS.h">
+      <Filter>Header Files\Constructors</Filter>
+    </ClInclude>
+    <ClInclude Include="MCTS_Reasoner.h">
+      <Filter>Header Files\Reasoners</Filter>
+    </ClInclude>
+    <ClInclude Include="MCTSNode.h">
+      <Filter>Header Files\MCTS_Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

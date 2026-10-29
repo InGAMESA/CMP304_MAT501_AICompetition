@@ -1,0 +1,61 @@
+﻿  AIActor_Driver.cpp
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'AIActor_Driver.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.h(59,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'AIActor_Driver.cpp')
+  
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.h(235,34): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'AIActor_Driver.cpp')
+  
+  GameController.cpp
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'GameController.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.h(59,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GameController.cpp')
+  
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.h(235,34): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'GameController.cpp')
+  
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(11,22): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(156,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(157,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(229,27): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(282,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(833,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(833,73): warning C4244:         with
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(833,73): warning C4244:         [
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(833,73): warning C4244:             T=unsigned int
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(833,73): warning C4244:         ]
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(833,73): warning C4244:         and
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(833,73): warning C4244:         [
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(833,73): warning C4244:             T=float
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(833,73): warning C4244:         ]
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(1204,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(1206,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.cpp(1208,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  RacingComp.cpp
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'RacingComp.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.h(59,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'RacingComp.cpp')
+  
+C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\RacingComp\GameController.h(235,34): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'RacingComp.cpp')
+  
+  Generating Code...
+  RacingComp.vcxproj -> C:\Dev\C++\CMP304_26_27\CMP304_MAT501_AICompetition\x64\Debug\RacingComp.exe
